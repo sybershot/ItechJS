@@ -1,0 +1,2 @@
+# ItechJS
+Studying JS basics.
